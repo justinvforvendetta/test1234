@@ -2,7 +2,7 @@ Electrum-Reecoin-Server for the Electrum client
 =========================================
 
   * Original Author: Thomas Voegtlin (ThomasV on the bitcointalk forum)
-  * Reecoin codebase port Authors: Sunerok/MobileNetz LLC
+  * Reecoin codebase port Authors: MobileNetz (mobilenetzllc@gmail.com)/justinvforvendetta(@gmail.com)
   * Language: Python
 
 Features
